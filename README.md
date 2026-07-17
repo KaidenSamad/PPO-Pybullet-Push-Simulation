@@ -2,6 +2,9 @@
 
 A reinforcement learning project built on the DexMobile PyBullet framework, training a dexterous robotic hand to perform object manipulation tasks using Proximal Policy Optimization (PPO). Extended from the base framework with a push task, physics analysis tools, and training visualization.
 
+For the full 8-page IEEE paper I wrote about my findings refer to:
+[Final Project .pdf](https://github.com/user-attachments/files/30109230/Final.Project.pdf)
+
 ---
 
 ## What This Project Does
